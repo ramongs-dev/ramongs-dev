@@ -1,4 +1,5 @@
-Founder & CTO of PearlPost
+Founder & CTO
+[PearlPost.io](https://pearlpost.io/)
 
 - Game Developer
 - Full Stack Developer
