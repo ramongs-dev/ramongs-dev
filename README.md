@@ -1,4 +1,4 @@
-Founder & CTO
+Founder & CTO of
 [PearlPost.io](https://pearlpost.io/)
 
 - Game Developer
